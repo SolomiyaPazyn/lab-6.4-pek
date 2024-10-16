@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\programming\\lab 6.4 pek\\lab 6.4 pek\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{533794D1-9067-4994-9477-498D50EB612F}|UnitTest6.4pek\\UnitTest6.4pek.vcxproj|D:\\programming\\lab 6.4 pek\\lab 6.4 pek\\UnitTest6.4pek\\UnitTest6.4pek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{533794D1-9067-4994-9477-498D50EB612F}|UnitTest6.4pek\\UnitTest6.4pek.vcxproj|solutionrelative:UnitTest6.4pek\\UnitTest6.4pek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{61E8B02A-5B51-4094-9D6F-A90C051AC855}|lab 6.4 pek.vcxproj|D:\\programming\\lab 6.4 pek\\lab 6.4 pek\\lab 6.4 pek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{61E8B02A-5B51-4094-9D6F-A90C051AC855}|lab 6.4 pek.vcxproj|solutionrelative:lab 6.4 pek.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest6.4pek.cpp",
+              "DocumentMoniker": "D:\\programming\\lab 6.4 pek\\lab 6.4 pek\\UnitTest6.4pek\\UnitTest6.4pek.cpp",
+              "RelativeDocumentMoniker": "UnitTest6.4pek\\UnitTest6.4pek.cpp",
+              "ToolTip": "D:\\programming\\lab 6.4 pek\\lab 6.4 pek\\UnitTest6.4pek\\UnitTest6.4pek.cpp",
+              "RelativeToolTip": "UnitTest6.4pek\\UnitTest6.4pek.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-16T11:22:12.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "lab 6.4 pek.cpp",
               "DocumentMoniker": "D:\\programming\\lab 6.4 pek\\lab 6.4 pek\\lab 6.4 pek.cpp",
               "RelativeDocumentMoniker": "lab 6.4 pek.cpp",
               "ToolTip": "D:\\programming\\lab 6.4 pek\\lab 6.4 pek\\lab 6.4 pek.cpp",
               "RelativeToolTip": "lab 6.4 pek.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAuwF8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-15T23:09:37.309Z",
               "EditorCaption": ""

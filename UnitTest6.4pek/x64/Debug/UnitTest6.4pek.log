@@ -1,0 +1,7 @@
+﻿  UnitTest6.4pek.cpp
+D:\programming\lab 6.4 pek\lab 6.4 pek\lab 6.4 pek.cpp(74,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/UnitTest6.4pek.cpp')
+  
+D:\programming\lab 6.4 pek\lab 6.4 pek\UnitTest6.4pek\UnitTest6.4pek.cpp(9,1): error C1075: '{': no matching token found
+  (compiling source file '/UnitTest6.4pek.cpp')
+  
