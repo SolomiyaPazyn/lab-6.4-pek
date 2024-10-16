@@ -1,0 +1,3 @@
+﻿  lab 6.4 pek.cpp
+D:\programming\lab 6.4 pek\lab 6.4 pek\lab 6.4 pek.cpp(74,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lab 6.4 pek.vcxproj -> D:\programming\lab 6.4 pek\lab 6.4 pek\x64\Debug\lab 6.4 pek.exe
